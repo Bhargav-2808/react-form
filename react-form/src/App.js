@@ -1,11 +1,12 @@
-
+import Form from './Form'
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 function App() {
   return (
     <>
     
-    <h1>hii</h1>
+        <Form/>
 
 
     </>
